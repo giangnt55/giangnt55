@@ -6,7 +6,7 @@ My name is Giang and... nothing special, i'm just the IT guy with the cool face,
 
 ### ✨&nbsp; About Me
 
-I am a junior .Net Developer. Currently, i'm working at <a href="https://estuary.solutions/">Estuary Solutions</a>
+I am a junior .Net Developer. Currently, i'm working at <a href="https://estuary.solutions/" target="_blank">Estuary Solutions</a>
 
 <h3>Things I code with</h3>
 <p>
