@@ -2,11 +2,11 @@
 My name is Giang and... nothing special, i'm just the IT guy with the cool face, hahah :rofl:
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
+- 🌱 &nbsp;I’m currently learning about .Net, Go
 
 ### ✨&nbsp; About Me
 
-I am a junior .Net Developer. Currently, i'm working at <a href="https://estuary.solutions/" target="_blank">Estuary Solutions</a>
+I'm a junior .Net Developer and maybe also a Go Developer (but I do not touch it for months🥲).
 
 <h3>Things I code with</h3>
 <p>
