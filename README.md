@@ -6,7 +6,7 @@ My name is Giang and... nothing special, i'm just the IT guy with the cool face,
 
 ### ✨&nbsp; About Me
 
-I'm a junior .Net Developer and maybe also a Go Developer (but I do not touch it for months🥲).
+I'm a .Net Developer and maybe also a Go Developer (but I do not touch it for months🥲).
 
 <h3>Things I code with</h3>
 <p>
